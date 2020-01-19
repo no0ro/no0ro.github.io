@@ -1,11 +1,11 @@
 # Site settings
-author: Noelle Rolwes
-title: 
+author: Noelle
+title: Love This Journey For Me 
 header-img: img/home-bg.png
 email: nrolwes@gmail.com
-copyright_name: Noelle Rolwes
+copyright_name: Noelle
 description: > # this means to ignore newlines until "baseurl:"
-  
+  This is a blog about my code.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  no0ro
