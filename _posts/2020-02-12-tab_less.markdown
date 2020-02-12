@@ -1,0 +1,28 @@
+---
+layout: post
+title:      " Tab Less "
+date:       2020-02-12 23:07:51 +0000
+permalink:  tab_less
+---
+
+
+For my Sinatra Project I created the app Tab Less. The goal of this app is to have a temporary place to put open browser tabs, thus allowing me to clear my cache, shut down my browser/computer, and free up memory. I don’t know about you, but I use browser Bookmarks specifically for webpages I've already read, vetted, and plan to reference later in life. This leaves a gap in my system - where  do I save potential Bookmarks, before I have a chance to read and vet them? I need some sort of  "pre-bookmark", a "bookmark limbo", an interim tab location. Tab Less is my first step toward solving this problem.
+
+<br>
+A running theme I'm finding with my projects is that the setup is the most tedious and time consuming part. At this stage in my journey to code, I don't know what I don’t know. I spent a lot of time researching project file structure, what each part does, and why certain chunks of code are necessary. This was really important to me. In the real world, there are no  "labs to pass" or the "learn submit'" command to streamline pushing to Github - we have to be able to set up and finish tasks on our own and from scratch.  After I had a good understanding of the project set up on my own, I opted to use the gem Corneal to scaffold my files. Corneal was great and gave me a solid foundation to build my project on.
+<br>
+This was my first time using the Flash gem and it  was a huge help for communicating errors to the user.  I also found a quick simple way to validate user form submissions by adding the  `required`  keyword in the `<input>`  tag.  
+<br>
+<br>
+_/views/login.erb_
+<br>
+<br>
+
+```html
+<input type="email" name="email" id="email" required>
+```
+<br>
+
+The keyword `required` prevents the user from submitting a form unless the required field is filled out. This error is communicated to the user by adding a red border to the form field and the text "Please fill out this field". Simple, elegant and efficient.  
+<br>
+I'm happy with the way my Sinatra project turned out and am excited to take things to the next level with Rails.
