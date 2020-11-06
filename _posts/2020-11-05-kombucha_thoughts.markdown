@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Kombucha Thoughts"
-date:       2020-11-06 01:39:04 +0000
+date:       2020-11-05 20:39:05 -0500
 permalink:  kombucha_thoughts
 ---
 
