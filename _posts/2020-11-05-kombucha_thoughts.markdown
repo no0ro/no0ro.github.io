@@ -6,7 +6,7 @@ permalink:  kombucha_thoughts
 ---
 
 
-The content of your blog post goes here.For my Rails project I made a web app for kombucha drinkers to keep track of what they've drank, review and rate their drink experience, and then be able to view what other users think of the kombuchas as well.
+For my Rails project I made a web app for kombucha drinkers to keep track of what they've drank, review and rate their drink experience, and then be able to view what other users think of the kombuchas as well.
 <br>
 <br>
 
